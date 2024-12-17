@@ -655,6 +655,24 @@ export const List = {
       link: 'https://www.yesstyle.com/en/eqqualberry-swimming-pool-daily-facial-toner-300ml/info.html/pid.1128582991?rco=GLOWSHELFIE0&utm_term=GLOWSHELFIE0&utm_medium=Influencer&utm_source=dynamic&mcg=influencer',
     },
   ],
+  '18065531107775542': [
+    {
+      name: 'Anua - Niacinamide 10% + TXA 4% Serum',
+      link: 'https://www.yesstyle.com/en/anua-niacinamide-10-txa-4-serum-2024-version-30ml/info.html/pid.1126101447?rco=GLOWSHELFIE0&utm_term=GLOWSHELFIE0&utm_medium=Influencer&utm_source=dynamic&mcg=influencer',
+    },
+    {
+      name: 'Anua PDRN Hyaluronic Capsule 100 Serum',
+      link: 'https://global.oliveyoung.com/if/rd?su=ZKL3B36D',
+    },
+    {
+      name: 'Whipped Mugtree Vegan Pack Cleanser',
+      link: 'https://global.oliveyoung.com/if/rd?su=8OGZ8ZYH',
+    },
+    {
+      name: 'Centellian24 Madeca Cream Time Reverse 50mL',
+      link: 'https://global.oliveyoung.com/product/detail?prdtNo=GA240121561',
+    },
+  ],
 }
 
 /*
