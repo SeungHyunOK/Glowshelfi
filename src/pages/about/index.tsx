@@ -32,10 +32,10 @@ export default function About() {
               Hi Beautiful Souls~
             </h2>
             <p className="text-xl leading-relaxed ph:text-base tab:text-lg">
-              Your girl here, live from Seoul, bringing you the best of K-Beauty
-              to make your skin glow! Join the Beautiful Souls community to
-              discover not just the secrets of K-Beauty but also ways to embrace
-              and celebrate your unique beauty.
+              It is your girl directly in Seoul to unlock and find the best of
+              K-Beauty for your skin to glow! Join the beautiful souls community
+              to find the best way to learn more about K-Beauty but also to
+              embrace your beauty.
             </p>
           </section>
 
@@ -44,12 +44,12 @@ export default function About() {
               Glowshelfie&apos;s Story
             </h1>
             <p className="text-xl leading-relaxed ph:text-base tab:text-lg">
-              Having sensitive skin and being allergic to many common
-              ingredients, it was always a challenge for me to find suitable
-              skincare and makeup products. Growing up in Europe, I tried
-              countless &quot;safe&quot; options but never discovered the
-              perfect routine. Glowshelfie is our K-Beauty haven, created to
-              accompany you through every step of your skincare journey.
+              By having a sensitive skin and being allergic to a lot of daily
+              elements, including some skincare and makeup, it was really
+              difficult for me to find the right products. Growing up in Europe,
+              I had been trying safe skincare but I had never found the proper
+              routine for my skin. Glowshelfie is our K-beauty garden where we
+              are here to accompany you in every step of your skincare journey.
             </p>
           </section>
         </div>
