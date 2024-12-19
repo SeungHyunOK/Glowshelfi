@@ -673,6 +673,62 @@ export const List = {
       link: 'https://global.oliveyoung.com/product/detail?prdtNo=GA240121561',
     },
   ],
+  '18028537004240658': [
+    {
+      name: 'FULLY - Green Tomato Clay Pack Cleanser',
+      link: 'https://www.yesstyle.com/en/fully-green-tomato-clay-pack-cleanser-120ml/info.html/pid.1128723189?rco=GLOWSHELFIE0&utm_term=GLOWSHELFIE0&utm_medium=Influencer&utm_source=dynamic&mcg=influencer',
+    },
+    {
+      name: 'Anua - Rice Enzyme Brightening Cleansing Powder',
+      link: 'https://www.yesstyle.com/en/anua-rice-enzyme-brightening-cleansing-powder-40g/info.html/pid.1129917446?rco=GLOWSHELFIE0&utm_term=GLOWSHELFIE0&utm_medium=Influencer&utm_source=dynamic&mcg=influencer',
+    },
+    {
+      name: 'Anua - Heartleaf 77% Soothing Toner',
+      link: 'https://www.yesstyle.com/en/anua-heartleaf-77-soothing-toner-250ml/info.html/pid.1092372008?rco=GLOWSHELFIE0&utm_term=GLOWSHELFIE0&utm_medium=Influencer&utm_source=dynamic&mcg=influencer',
+    },
+    {
+      name: 'Anua - Peach 77 Niacin Essence Toner',
+      link: 'https://www.yesstyle.com/en/anua-peach-77-niacin-essence-toner-250ml/info.html/pid.1125108339?rco=GLOWSHELFIE0&utm_term=GLOWSHELFIE0&utm_medium=Influencer&utm_source=dynamic&mcg=influencer',
+    },
+    {
+      name: 'medicube - PDRN Pink Peptide Serum',
+      link: 'https://www.yesstyle.com/en/medicube-pdrn-pink-peptide-serum-30ml/info.html/pid.1129886159?rco=GLOWSHELFIE0&utm_term=GLOWSHELFIE0&utm_medium=Influencer&utm_source=dynamic&mcg=influencer',
+    },
+    {
+      name: 'Anua - Niacinamide 10% + TXA 4% Serum',
+      link: 'https://www.yesstyle.com/en/anua-niacinamide-10-txa-4-serum-2024-version-30ml/info.html/pid.1126101447?rco=GLOWSHELFIE0&utm_term=GLOWSHELFIE0&utm_medium=Influencer&utm_source=dynamic&mcg=influencer',
+    },
+    {
+      name: 'Beauty of Joseon - Glow Serum',
+      link: 'https://www.yesstyle.com/en/beauty-of-joseon-glow-serum-30ml/info.html/pid.1089210994?rco=GLOWSHELFIE0&utm_term=GLOWSHELFIE0&utm_medium=Influencer&utm_source=dynamic&mcg=influencer ',
+    },
+    {
+      name: 'Centellian24 Madeca Cream Time Reverse 50mL',
+      link: 'https://global.oliveyoung.com/product/detail?prdtNo=GA240121561',
+    },
+    {
+      name: 'Beauty of Joseon - Relief Sun',
+      link: 'https://www.yesstyle.com/en/beauty-of-joseon-relief-sun-50ml/info.html/pid.1107744417?rco=GLOWSHELFIE0&utm_term=GLOWSHELFIE0&utm_medium=Influencer&utm_source=dynamic&mcg=influencer',
+    },
+    {
+      name: 'Beauty of Joseon - Relief Sun Aqua-fresh',
+      link: 'https://www.yesstyle.com/en/beauty-of-joseon-relief-sun-aqua-fresh-50ml/info.html/pid.1130222654?rco=GLOWSHELFIE0&utm_term=GLOWSHELFIE0&utm_medium=Influencer&utm_source=dynamic&mcg=influencer',
+    },
+  ],
+  '18040173539202343': [
+    {
+      name: 'Anua - Niacinamide 10% + TXA 4% Serum',
+      link: 'https://www.yesstyle.com/en/anua-niacinamide-10-txa-4-serum-2024-version-30ml/info.html/pid.1126101447?rco=GLOWSHELFIE0&utm_term=GLOWSHELFIE0&utm_medium=Influencer&utm_source=dynamic&mcg=influencer',
+    },
+    {
+      name: 'Anua - Peach 70 Niacin Serum',
+      link: 'https://www.yesstyle.com/en/anua-peach-70-niacin-serum-30ml/info.html/pid.1132099566?rco=GLOWSHELFIE0&utm_term=GLOWSHELFIE0&utm_medium=Influencer&utm_source=dynamic&mcg=influencer',
+    },
+    {
+      name: 'Anua PDRN Hyaluronic Capsule 100 Serum',
+      link: 'https://global.oliveyoung.com/if/rd?su=ZKL3B36D',
+    },
+  ],
 }
 
 /*

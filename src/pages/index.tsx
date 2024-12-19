@@ -3,17 +3,7 @@ import Link from 'next/link'
 import Button from '@/components/button'
 import { brands } from '@/store/brands'
 import Feeds from '@/components/feed/feeds'
-
-type Brand = {
-  name: string
-  url: string
-}
-
-type BrandCardProps = {
-  name: string
-  url: string
-  className?: string
-}
+import { Brand, BrandCardProps } from '@/type/brands'
 
 const BrandCard: React.FC<BrandCardProps> = ({ name, url }) => (
   <div
