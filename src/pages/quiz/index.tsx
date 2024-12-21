@@ -174,8 +174,10 @@ function ResultsScreen({
     <div className="flex flex-col items-center justify-center text-center">
       <span className="mb-8 flex flex-col gap-8 font-bold ph:mb-4 ph:gap-4 tab:mb-6 tab:gap-6">
         <h1 className="text-4xl ph:text-lg tab:text-2xl">
-          🐰 Your personalized Korean skincare routine💓✨
+          🐰 Your <span className="bg-yellow-300">{answers[0]}</span> /{' '}
+          <span className="bg-pink-300">{answers[1]}</span> results 💓✨
         </h1>
+
         <h2 className="text-2xl ph:text-sm tab:text-lg">
           ✨ USE DISCOUNT & REWARD CODE TO SAVE MONEY ✨
         </h2>
